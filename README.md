@@ -14,7 +14,7 @@ This project demonstrates the development and implementation of a **CI/CD (Conti
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 * Git (Version Control)
 * GitHub (Repository Hosting)
