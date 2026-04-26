@@ -120,12 +120,12 @@ The pipeline is defined in:
 ---
 
 ## Author
-Milan Singh
-Himanshu Suthar
-Sadaf Khan
-Ansh .
+* Milan Singh
+* Himanshu Suthar
+* Sadaf Khan
+* Ansh .
 
-(Add your GitHub profile link here)
+* https://github.com/Milan01062006
 
 ---
 
