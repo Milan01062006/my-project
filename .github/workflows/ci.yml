@@ -1,0 +1,26 @@
+name: Static Web CI/CD
+
+on:
+  push:
+    branches: [ "main" ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Check HTML files
+      run: |
+        echo "Checking HTML files..."
+        ls *.html
+
+    - name: Validate project structure
+      run: |
+        echo "Validating files..."
+        test -f index.html
+
+    - name: Simulate deployment
+      run: echo "Website ready for deployment"
